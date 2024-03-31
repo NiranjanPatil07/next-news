@@ -1,0 +1,248 @@
+{
+  "id": "2024-03-30/meta-can-t-delay-ftc-review-of-privacy-terms-appeals-court-says",
+  "title": "Meta Can’t Delay FTC Review of Privacy Terms, Appeals Court Says",
+  "summary": "",
+  "secondaryBrands": ["technology", "politics"],
+  "internalID": "SB4YRHDWX2PS00",
+  "byline": "Kartikay Mehrotra",
+  "archived": false,
+  "longURL": "https://www.bloomberg.com/news/articles/2024-03-30/meta-can-t-delay-ftc-review-of-privacy-terms-appeals-court-says",
+  "shortURL": "https://www.bloomberg.com/news/articles/2024-03-30/meta-can-t-delay-ftc-review-of-privacy-terms-appeals-court-says",
+  "authoredRegion": "AMER",
+  "primarySite": "technology",
+  "brand": "technology",
+  "primaryCategory": "Technology",
+  "attributor": "bn",
+  "published": 1711760381,
+  "updatedAt": 1711760381,
+  "resourceType": "Story",
+  "resourceId": "SB4YRHDWX2PS00",
+  "wordCount": 231,
+  "premium": false,
+  "readings": [
+    {
+      "url": "https://assets.bwbx.io/s3/readings/SB4YRHDWX2PS1711785544736.mp3",
+      "voice": "Matthew",
+      "durationMs": 94440
+    }
+  ],
+  "type": "article",
+  "card": "article",
+  "abstract": [],
+  "adParams": {
+    "dfpTarget": {
+      "ni": "BUSINESS,EQUITYKEY,GLOBALMACR,LAW,NRGKEY,RATESKEY,TEC",
+      "kwl": "biz_cartier,biz_ishares,biz_wellsfargosept,biz_googlelist,biz_googlelisttwo,biz_googlelisthree,biz_technologykeywords,biz_atrocity,biz_bp1,biz_bp2,biz_bp3,biz_bp4,biz_schwab,biz_fidelity,biz_ibm3,biz_kornferry,biz_fti,biz_lexus2,biz_BMW,biz_citi1,biz_boeing,biz_facebook1,biz_facebook2,biz_junctiondigital,biz_bmwnew,biz_hsbcpb,biz_jpmorgan,biz_morgan1,biz_facebookmobkoi,biz_go_korean,biz_facebook,biz_mobkoivca,biz_ubsfrance,biz_citi2019,biz_fb,biz_nomuraapac,biz_Cognizant,biz_mobkoirichemont19,biz_kpmg,biz_mobkoidyson,biz_mobkoif1,biz_facebookcbb,biz_socgenoctnov19,biz_saudiaramco,biz_cfa,biz_wellspop,biz_mobkoifortnite,biz_porsche2019,biz_mobkoiaramco,biz_mobkoibppodcast,biz_JH_APAC_2020,biz_google_helpfulness2020,biz_mobkoibucherer,biz_ukdit,biz_porsche2020,biz_kpmgpg,biz_mobkoifacebookpolicyaffairs,biz_ptarmiganapac2020,biz_barc1,biz_jpmpg,biz_westpac,biz_juliusbaerblocklist,biz_finecojune,biz_signet,biz_gsmarcus,biz_cartier3,biz_diageo,biz_signet2,biz_pgim,biz_mcardnef2020,biz_microsoftnov,biz_cigna,biz_hsbc2021,biz_microsoftjan2021,biz_vca,biz_mobkoicastrol,biz_facebookpgemea21,biz_vacheron_2021,biz_iwc_2021,biz_fbq42021,biz_workday21,biz_sabic21,biz_vancleef_2022,biz_cartier2022,biz_vca2022,biz_vcawatches2022,biz_Chanel,biz_chanelbleu,biz_vac2022,biz_meta_alwayson_kwbl,biz_testnov22,biz_bain,biz_lexus2023,biz_bain2023,biz_jpmc_brandsafety,biz_mobkoi_Omega_43707,biz_eurex23,biz_morganstanley23,biz_vcaoct23,biz_ditapacgrowth,biz_jpmorgan_pg,biz_ubsfeb2024",
+      "sites": "technology,bpol",
+      "url": "/2024-03-30/meta-can-t-delay-ftc-review-of-privacy-terms-appeals-court-says",
+      "adCode": "bloomberg/technology/article"
+    }
+  },
+  "securityIDs": ["META:US"],
+  "topics": [
+    {
+      "id": "privacy",
+      "name": "Privacy",
+      "referringId": "mobile://topics/privacy"
+    }
+  ],
+  "components": [
+    {
+      "role": "p",
+      "parts": [
+        {
+          "role": "anchor",
+          "parts": [
+            {
+              "role": "text",
+              "text": "Meta Platforms Inc.",
+              "security": {
+                "text": "Meta Platforms Inc. (FB)",
+                "ticker": "FB:US",
+                "template": "Stock",
+                "name": "Meta Platforms Inc",
+                "tickerName": "FB:US",
+                "watchlist": true,
+                "symbol": "FB",
+                "eqtIndex": false
+              }
+            }
+          ]
+        },
+        {
+          "role": "text",
+          "text": " failed to convince a federal appeals court to postpone the US Federal Trade Commission’s reexamination of alleged privacy breaches within its Facebook arm."
+        }
+      ]
+    },
+    {
+      "role": "p",
+      "parts": [
+        {
+          "role": "text",
+          "text": "The US Court of Appeals for the D.C. Circuit ruled Friday that Meta “has not satisfied the stringent requirements” for an injunction pending appeal for any of its five constitutional challenges. “None has a likelihood of success,” the court ruled."
+        }
+      ]
+    },
+    {
+      "role": "p",
+      "parts": [
+        {
+          "role": "text",
+          "text": "The decision is Meta’s latest defeat this month in a string of rulings over whether the FTC can reopen a 2020 privacy settlement covering allegations that the company breached terms after receiving a $5 billion penalty in 2023. US District Judge Randolph Moss "
+        },
+        {
+          "role": "anchor",
+          "parts": [
+            {
+              "role": "text",
+              "text": "denied"
+            }
+          ]
+        },
+        {
+          "role": "text",
+          "text": " Meta’s request for a preliminary injunction on March 14, finding that if the FTC is correct in its claim that Meta is putting consumer privacy at risk, it would be in the public interest for it to move ahead."
+        }
+      ]
+    },
+    {
+      "role": "p",
+      "parts": [
+        {
+          "role": "text",
+          "text": "Central to the FTC’s proposed amendments to Meta’s settlement is the prohibition on capitalizing on minors’ data and broadening restrictions on facial recognition technology. Accusations leveled against Meta include allegations of deceptive practices regarding parental assurances regarding child protection measures."
+        }
+      ]
+    },
+    {
+      "role": "p",
+      "parts": [
+        {
+          "role": "text",
+          "text": "The case is "
+        },
+        {
+          "role": "text",
+          "text": "Meta Platforms, Inc. v. FTC"
+        },
+        {
+          "role": "text",
+          "text": ", D.C. Cir., No. 24-05054, 3/29/24"
+        }
+      ]
+    },
+    {
+      "role": "p",
+      "parts": [
+        {
+          "role": "text",
+          "text": "To contact the reporter on this story: "
+        },
+        {
+          "role": "text",
+          "text": "Kartikay Mehrotra"
+        },
+        {
+          "role": "text",
+          "text": " at "
+        },
+        {
+          "role": "text",
+          "parts": [
+            {
+              "role": "text",
+              "text": "kmehrotra@bloombergindustry.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "role": "p",
+      "parts": [
+        {
+          "role": "text",
+          "text": "To contact the editors responsible for this story: "
+        },
+        {
+          "role": "text",
+          "text": "Cheryl Saenz"
+        },
+        {
+          "role": "text",
+          "text": " at "
+        },
+        {
+          "role": "text",
+          "parts": [
+            {
+              "role": "text",
+              "text": "csaenz@bloombergindustry.com"
+            }
+          ]
+        },
+        {
+          "role": "text",
+          "text": "; "
+        },
+        {
+          "role": "text",
+          "text": "Bill Swindell"
+        },
+        {
+          "role": "text",
+          "text": " at "
+        },
+        {
+          "role": "text",
+          "parts": [
+            {
+              "role": "text",
+              "text": "bswindell@bloombergindustry.com"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "themedImages": [],
+  "newsletterToutLabel": "null",
+  "isMetered": true,
+  "disableAds": false,
+  "contentTags": [
+    {
+      "id": "privacy",
+      "type": "Topic",
+      "derivedScore": 6.426696997270246,
+      "directScore": 6.426696997270246
+    },
+    {
+      "id": "META:US",
+      "type": "Company",
+      "derivedScore": 12.186128803963198,
+      "directScore": 12.186128803963198
+    },
+    {
+      "id": "US",
+      "type": "Region",
+      "derivedScore": 12.186128803963198,
+      "directScore": 0
+    },
+    {
+      "id": "US",
+      "type": "Country",
+      "derivedScore": 12.186128803963198,
+      "directScore": 0
+    },
+    {
+      "id": "technology",
+      "type": "Classification",
+      "derivedScore": 12.186128803963198,
+      "directScore": 0
+    }
+  ],
+  "followAuthorDetails": {
+    "enabled": false
+  }
+}
